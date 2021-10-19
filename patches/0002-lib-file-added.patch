@@ -1,0 +1,45 @@
+From ad9ec98b8b7211b71ab50153d366648debcb36b6 Mon Sep 17 00:00:00 2001
+From: maxx <rrohit22896@gmail.com>
+Date: Mon, 18 Oct 2021 12:21:27 +0530
+Subject: [PATCH 2/2] lib file added
+
+---
+ lib.txt  | 13 +++++++++++++
+ note.txt |  7 +++++--
+ 2 files changed, 18 insertions(+), 2 deletions(-)
+ create mode 100644 lib.txt
+
+diff --git a/lib.txt b/lib.txt
+new file mode 100644
+index 0000000..bdc308f
+--- /dev/null
++++ b/lib.txt
+@@ -0,0 +1,13 @@
++// library files
++
++datatypes;
++
++
++
++function1();
++
++
++function2();
++
++
++function3();
+diff --git a/note.txt b/note.txt
+index 5ca8e7a..c4d4b40 100644
+--- a/note.txt
++++ b/note.txt
+@@ -1,2 +1,5 @@
+-hello my name is rohit
+-my fav num is 8
++hello my name is rohit kumar
++
++i'm 22 years old
++
++i like coding
+-- 
+2.25.1
+

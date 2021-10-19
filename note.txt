@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 hello my name is rohit
 my fav num is 9
 
 
 new changes done
+=======
+hello my name is rohit kumar
+
+i'm 22 years old
+
+i like coding
+>>>>>>> ad9ec98b8b7211b71ab50153d366648debcb36b6

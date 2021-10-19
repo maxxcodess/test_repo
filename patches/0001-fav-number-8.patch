@@ -1,0 +1,20 @@
+From d2baffbd4f6c2dc0113d00cd0d98315b9e91f1df Mon Sep 17 00:00:00 2001
+From: maxx <rrohit22896@gmail.com>
+Date: Sat, 16 Oct 2021 20:09:00 +0530
+Subject: [PATCH 1/2] fav number 8
+
+---
+ note.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/note.txt b/note.txt
+index 295adec..5ca8e7a 100644
+--- a/note.txt
++++ b/note.txt
+@@ -1,2 +1,2 @@
+ hello my name is rohit
+-my fav num is 9
++my fav num is 8
+-- 
+2.25.1
+
