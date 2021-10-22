@@ -1,0 +1,21 @@
+From 2d678570b1e3be6c9b1035ad1251218f91ba89e5 Mon Sep 17 00:00:00 2001
+From: maxx <rrohit22896@gmail.com>
+Date: Wed, 20 Oct 2021 14:17:39 +0530
+Subject: [PATCH 3/3] hello ruchi
+
+---
+ note.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/note.txt b/note.txt
+index ff65286..30e5e78 100644
+--- a/note.txt
++++ b/note.txt
+@@ -6,3 +6,4 @@ i like coding
+ 
+ nice to meet you
+ 
++hello ruchi
+-- 
+2.25.1
+
